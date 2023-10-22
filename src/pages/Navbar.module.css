@@ -1,0 +1,23 @@
+.container{
+    background-color: #264653;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 1%;
+    align-items: center;
+    color: whitesmoke;
+    height: 50px;
+    padding: 0px 2%;
+}
+.navbarMenu{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.navbarMenu li{
+    margin: 0px 30px;
+    cursor: pointer;
+}
+.logo{
+    font-size: larger;
+    font-weight: bold;
+}
